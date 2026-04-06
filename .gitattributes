@@ -1,0 +1,4 @@
+# The HTML file is a template asset, not source code
+skills/codebase-map/assets/template.html linguist-vendored
+# Skill definitions are the primary content
+*.md linguist-documentation=false
