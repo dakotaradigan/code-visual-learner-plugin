@@ -1,0 +1,7 @@
+{
+  "name": "code-visual-learner",
+  "description": "Generate visual and written architecture documentation for any codebase. Two skills: codebase-map (Mermaid diagram HTML) and architecture-overview (structured markdown analysis).",
+  "author": {
+    "name": "Dakota Radigan"
+  }
+}
