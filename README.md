@@ -6,7 +6,7 @@ A Claude Code plugin that generates visual and written architecture documentatio
 
 ### `codebase-map`
 
-Generates a single self-contained HTML file with Mermaid diagrams, educational prose, and real code snippets. Produces progressive diagrams from system context (L1) down to state lifecycles (L4) using a pastel color palette.
+Generates a single self-contained HTML file with Mermaid diagrams, educational prose, and  code snippets. Produces progressive diagrams from system context (L1) down to state lifecycles (L4) using a pastel color palette.
 
 **Trigger phrases:** "map this codebase", "visual architecture", "mermaid diagrams for this project", "visualize the code"
 
